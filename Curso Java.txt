@@ -1,0 +1,11 @@
+Curso Java	
+	
+	2 - Java e Orientação a Objetos
+		JRE - Java Runtime Environment - Ambiente em que é executada a aplicação JAVA
+		JVM - Java Virtual Machine - Maquina Virtualizada que torna a aplicação multiplataforma
+		JSE - Java Standard Edition - 
+		HotSpot - Tecnologia para detectar pontos quentes (lentos) dos Códigos, compila dinamicamento o código durante a execução.
+		Jit - Just InTime Compiler - Auxilia o hotspot a identificar pontos de lentidão na execução da aplicação
+	
+	3 - Variáveis primitivas e Controle de fluxo
+		
